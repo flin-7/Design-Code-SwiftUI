@@ -13,6 +13,7 @@
 		C206D3EB2417125700BD8E24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C206D3EA2417125700BD8E24 /* Assets.xcassets */; };
 		C206D3EE2417125700BD8E24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C206D3ED2417125700BD8E24 /* Preview Assets.xcassets */; };
 		C206D3F12417125700BD8E24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C206D3EF2417125700BD8E24 /* LaunchScreen.storyboard */; };
+		C22F6766241FEF5400144ED9 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22F6765241FEF5400144ED9 /* Home.swift */; };
 		E5E8ECB8241D9BE900D608AF /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5E8ECB7241D9BE900D608AF /* MenuView.swift */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		C206D3ED2417125700BD8E24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C206D3F02417125700BD8E24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C206D3F22417125700BD8E24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C22F6765241FEF5400144ED9 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		E5E8ECB7241D9BE900D608AF /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,6 +63,7 @@
 				C206D3E42417125400BD8E24 /* AppDelegate.swift */,
 				C206D3E62417125400BD8E24 /* SceneDelegate.swift */,
 				C206D3E82417125400BD8E24 /* ContentView.swift */,
+				C22F6765241FEF5400144ED9 /* Home.swift */,
 				E5E8ECB7241D9BE900D608AF /* MenuView.swift */,
 				C206D3EA2417125700BD8E24 /* Assets.xcassets */,
 				C206D3EF2417125700BD8E24 /* LaunchScreen.storyboard */,
@@ -151,6 +154,7 @@
 			files = (
 				C206D3E52417125400BD8E24 /* AppDelegate.swift in Sources */,
 				E5E8ECB8241D9BE900D608AF /* MenuView.swift in Sources */,
+				C22F6766241FEF5400144ED9 /* Home.swift in Sources */,
 				C206D3E72417125400BD8E24 /* SceneDelegate.swift in Sources */,
 				C206D3E92417125400BD8E24 /* ContentView.swift in Sources */,
 			);
