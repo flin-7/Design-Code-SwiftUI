@@ -16,6 +16,7 @@
 		C22F6766241FEF5400144ED9 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22F6765241FEF5400144ED9 /* Home.swift */; };
 		C29344092421778A00F91245 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29344082421778A00F91245 /* HomeView.swift */; };
 		E56B882E2425E51D009E9F7E /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E56B882D2425E51D009E9F7E /* UpdateList.swift */; };
+		E56B88302425EB36009E9F7E /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = E56B882F2425EB36009E9F7E /* UpdateDetail.swift */; };
 		E5E8ECB8241D9BE900D608AF /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5E8ECB7241D9BE900D608AF /* MenuView.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		C22F6765241FEF5400144ED9 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		C29344082421778A00F91245 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		E56B882D2425E51D009E9F7E /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
+		E56B882F2425EB36009E9F7E /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
 		E5E8ECB7241D9BE900D608AF /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,6 +73,7 @@
 				C29344082421778A00F91245 /* HomeView.swift */,
 				E5E8ECB7241D9BE900D608AF /* MenuView.swift */,
 				E56B882D2425E51D009E9F7E /* UpdateList.swift */,
+				E56B882F2425EB36009E9F7E /* UpdateDetail.swift */,
 				C206D3EA2417125700BD8E24 /* Assets.xcassets */,
 				C206D3EF2417125700BD8E24 /* LaunchScreen.storyboard */,
 				C206D3F22417125700BD8E24 /* Info.plist */,
@@ -161,6 +164,7 @@
 				C206D3E52417125400BD8E24 /* AppDelegate.swift in Sources */,
 				E56B882E2425E51D009E9F7E /* UpdateList.swift in Sources */,
 				E5E8ECB8241D9BE900D608AF /* MenuView.swift in Sources */,
+				E56B88302425EB36009E9F7E /* UpdateDetail.swift in Sources */,
 				C22F6766241FEF5400144ED9 /* Home.swift in Sources */,
 				C29344092421778A00F91245 /* HomeView.swift in Sources */,
 				C206D3E72417125400BD8E24 /* SceneDelegate.swift in Sources */,
