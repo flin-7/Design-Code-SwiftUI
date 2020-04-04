@@ -19,6 +19,9 @@ struct CourseList: View {
             Color.black.opacity(Double(self.activeView.height / 500))
                 .animation(.linear)
                 .edgesIgnoringSafeArea(.all)
+                .onAppear {
+                    getArray()
+            }
             
             ScrollView {
                 VStack(spacing: 30) {
@@ -159,9 +162,9 @@ struct CourseView: View {
             }
             
             if show {
-//                CourseDetail(show: $show, active: $active, activeIndex: $activeIndex, course: course)
-//                    .background(Color.white)
-//                    .animation(nil)
+                //                CourseDetail(show: $show, active: $active, activeIndex: $activeIndex, course: course)
+                //                    .background(Color.white)
+                //                    .animation(nil)
             }
         }
         .frame(height: show ? screen.height : 280)
