@@ -48,6 +48,7 @@
 		E58E310824393848009D9580 /* CourseStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E58E310724393848009D9580 /* CourseStore.swift */; };
 		E5A6FC48243AA8A200E5D617 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = E5A6FC47243AA8A200E5D617 /* SDWebImageSwiftUI */; };
 		E5BA33522426B5B3002CEC1E /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5BA33512426B5B3002CEC1E /* TabBar.swift */; };
+		E5C09CDB2445840700D419A6 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C09CDA2445840700D419A6 /* Buttons.swift */; };
 		E5C56F0224392A2F006BF563 /* CourseDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C56F0124392A2F006BF563 /* CourseDetail.swift */; };
 		E5E8ECB8241D9BE900D608AF /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5E8ECB7241D9BE900D608AF /* MenuView.swift */; };
 /* End PBXBuildFile section */
@@ -94,6 +95,7 @@
 		E58E31022439344A009D9580 /* DataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStore.swift; sourceTree = "<group>"; };
 		E58E310724393848009D9580 /* CourseStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseStore.swift; sourceTree = "<group>"; };
 		E5BA33512426B5B3002CEC1E /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		E5C09CDA2445840700D419A6 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		E5C56F0124392A2F006BF563 /* CourseDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseDetail.swift; sourceTree = "<group>"; };
 		E5E8ECB7241D9BE900D608AF /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -149,6 +151,7 @@
 				E58E310024393179009D9580 /* PostList.swift */,
 				E5BA33512426B5B3002CEC1E /* TabBar.swift */,
 				E5616362243AAD6E00DC01E6 /* BlurView.swift */,
+				E5C09CDA2445840700D419A6 /* Buttons.swift */,
 				C206D3EA2417125700BD8E24 /* Assets.xcassets */,
 				C2081763242C232C007CF39B /* Work_Sans */,
 				C206D3EF2417125700BD8E24 /* LaunchScreen.storyboard */,
@@ -305,6 +308,7 @@
 				C206D3E72417125400BD8E24 /* SceneDelegate.swift in Sources */,
 				E58E310124393179009D9580 /* PostList.swift in Sources */,
 				C206D3E92417125400BD8E24 /* ContentView.swift in Sources */,
+				E5C09CDB2445840700D419A6 /* Buttons.swift in Sources */,
 				E5C56F0224392A2F006BF563 /* CourseDetail.swift in Sources */,
 				E5616363243AAD6E00DC01E6 /* BlurView.swift in Sources */,
 				E5BA33522426B5B3002CEC1E /* TabBar.swift in Sources */,
