@@ -10,7 +10,7 @@ import SwiftUI
 import Contentful
 import Combine
 
-let client = Client(spaceId: "hzshzg9atzet", accessToken: "tYVYtKX9srjQ_lRBPxb6R_5sZlgivzRblDISZafp4nc")
+let client = Client(spaceId: "hzshzg9atzet", accessToken: "wLRwc3vZQ-WYdRu2erIm51NJHRsyALessKvTw06h6lI")
 
 func getArray(id: String, completion: @escaping([Entry]) -> ()) {
     let query = Query.where(contentTypeId: id)
